@@ -8,7 +8,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = QT_device
+TARGET = Qt_s5p6818_device
 TEMPLATE = app
 
 
